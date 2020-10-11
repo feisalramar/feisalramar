@@ -30,6 +30,7 @@ Experienced in major software engineering areas including
 #### I'm currently -:
 
 - Working as a freelance software engineer.
-- Deep diving in Amazon Technologies ( AWS ) and Learning Full-time masters of Science in Computer Science.
+- Deep diving in Amazon Technologies ( AWS ).
+- Learning Full-time masters of Science in Computer Science.
 - Open to collaborate to any project.
 
