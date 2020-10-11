@@ -27,7 +27,9 @@ Experienced in major software engineering areas including
 - Other Technologies including Docker, Kubernete, AWS. 
 
 
-- I'm currently working as a freelance software engineer.
-- I'm currently deep diving in Amazon Technologies ( AWS ) and Learning Full-time masters of Science in Computer Science.
-- I'm open to collaborate to any project.
+#### I'm currently -:
+
+- As a freelance software engineer.
+- Deep diving in Amazon Technologies ( AWS ) and Learning Full-time masters of Science in Computer Science.
+- Open to collaborate to any project.
 
