@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- I'm currently working as a freelance software engineer.
+- I'm currently deep diving in Amazon Technologies ( AWS ) and Learning Full-time masters of Science in Computer Science.
+- I'm open to collaborate to any project.
