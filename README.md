@@ -31,8 +31,8 @@ Experienced in major software engineering areas including
 
 - Working as a freelance software engineer.
 - Deep diving into Learning Amazon Technologies ( AWS ).
+- Open to collaborate to any project.
 <!--
 - Learning Full-time masters of Science in Computer Science.
 -->
-- Open to collaborate to any project.
 
