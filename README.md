@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Experienced Software Engineer with more then 5 years of experience delivering tech solutions and can Learn and adapt with any tech or language in demand. 
+Experienced Software Engineer with more then 6 years of experience delivering tech solutions, can Learn and adapt with any technology or language in demand. 
 
 - Avid programmer and fast learner with critical problem solving ability and intrinsic motivated who love to write simple and elegant solution to every problem. 
 Experienced in major software engineering areas including 
